@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "BlankCordovaApp1", "BlankCordovaApp1\BlankCordovaApp1.jsproj", "{FC8EFBCE-32F9-4C5B-A63C-BAC26AA4CAD9}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "CordovaGeolocationTest", "BlankCordovaApp1\CordovaGeolocationTest.jsproj", "{FC8EFBCE-32F9-4C5B-A63C-BAC26AA4CAD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
