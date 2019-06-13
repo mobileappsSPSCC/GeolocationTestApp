@@ -106,5 +106,5 @@
   <edit-config target="NSLocationWhenInUseUsageDescription" file="*-Info.plist" mode="merge">
     <string>need location access to find things nearby</string>
   </edit-config>
-  <plugin name="cordova-plugin-geolocation" spec="~4.0.1" />
+  <plugin name="cordova-plugin-geolocation" spec="~2.4.3" />
 </widget>
